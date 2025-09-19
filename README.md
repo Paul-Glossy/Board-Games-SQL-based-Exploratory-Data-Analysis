@@ -477,3 +477,6 @@ This project was a comprehensive exercise in using advanced SQL to transform raw
 - **Logical Conditionals**: CASE statements were used extensively to categorize games by difficulty and to create custom metrics and rankings, such as the ranking_score for identifying overrated and underrated games.
 
 In summary, this project highlights a most of the fundamentals of SQL and some advanced techniques, demonstrating the ability to clean, prepare, and analyze complex datasets to drive business strategy.
+=======
+# Board-Games-SQL-based-Exploratory-Data-Analysis
+A SQL-based data analysis of the BoardGameGeek dataset, demonstrating a range of technical skills. The project provides key business insights and actionable recommendations for an online store entering the board game market.
